@@ -1,5 +1,7 @@
-# Day 1 – Understanding AI Pipelines
+# AI 60 Days Coding Challenge
 
+
+# Day 1 – Understanding AI Pipelines
 ## 1. AI Pipeline Diagram
 ![Pipeline](pipeline.png)
 
