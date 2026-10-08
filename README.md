@@ -19,3 +19,12 @@ Colab notebook: [Day2_Python_Basics.ipynb](Day2_Python_Basics.ipynb)
 - Cell 1: First Python cell
 - Cell 2: Word frequency counter
 - Cell 3: Text cleaning (lowercase, remove punctuation, normalize spaces)
+
+
+
+## Day 3 – Text Preprocessing
+Notebook: [Day3_Text_Preprocessing.ipynb](Day3_Text_Preprocessing.ipynb)
+- Tokenization with NLTK
+- Stop word and punctuation removal
+- Bag-of-words representation
+- Datasets: preprocessed_text.csv, preprocessed_bow.csv
