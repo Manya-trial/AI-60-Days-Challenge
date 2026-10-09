@@ -28,3 +28,9 @@ Notebook: [Day3_Text_Preprocessing.ipynb](Day3_Text_Preprocessing.ipynb)
 - Stop word and punctuation removal
 - Bag-of-words representation
 - Datasets: preprocessed_text.csv, preprocessed_bow.csv
+
+- ## Day 4 – Sentence Embeddings
+Notebook: [Day4_Embeddings.ipynb](Day4_Embeddings.ipynb)
+- Embedded 5 sentences with sentence-transformers (all-MiniLM-L6-v2)
+- Compared pairs with cosine similarity
+- Reflection on what surprised me
