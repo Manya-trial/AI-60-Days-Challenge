@@ -34,3 +34,10 @@ Notebook: [Day4_Embeddings.ipynb](Day4_Embeddings.ipynb)
 - Embedded 5 sentences with sentence-transformers (all-MiniLM-L6-v2)
 - Compared pairs with cosine similarity
 - Reflection on what surprised me
+
+
+## Day 5 – Semantic Search
+Notebook: [Day5_Semantic_Search.ipynb](Day5_Semantic_Search.ipynb)
+- 20-sentence cybersecurity dataset embedded with sentence-transformers
+- Semantic search returning top 3 results
+- Comparison with keyword search
